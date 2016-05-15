@@ -1,5 +1,5 @@
 # CONTRIBUTE
----
+
 #### Get Started:
 + Go to [README.md](https://github.com/lovincyrus/university-cs-resources/blob/master/README.md)
 + Check if University is on the list, [YES](#yes) or [NO](#no)
