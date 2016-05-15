@@ -46,7 +46,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 + San Jose State University
 
 + Stanford University
-	- [Crowd Course MOOCs](crowdcourse.stanford.edu/courses.html)
+	- [Crowd Course MOOCs](http://crowdcourse.stanford.edu/courses.html)
 	- [Dataset Collection](https://snap.stanford.edu/data/)
 
 + UC Berkeley
