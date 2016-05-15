@@ -64,6 +64,9 @@ These are the pre-fixed Resources you may use for University's Resources:
 
 + University of Illinois, Urbana–Champaign
 
++ University of North Carolina at Chapel Hill
+	- [all resources for public course listings](http://cs.unc.edu/academics/home-page-links/)
+
 + University of Waterloo
 
 
