@@ -12,7 +12,7 @@
 	- [Resources_2] (link) // this should be the result
 	- [Resources_3] (link) // this should be the result
 
----
+
 ##### YES - University is on the curated list:
 1. Edit the list based on the formatting from Example
 2. The University and Resources have to be added in _Alphabetical Order_
