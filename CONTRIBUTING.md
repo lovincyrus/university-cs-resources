@@ -21,5 +21,5 @@
 ##### NO - University is not on the curated list:
 1. Add University to the list alphabetically
 2. Later, add Resources with the list
-3. Double check if the University & Resources are in Alphabetical Order as well
+3. Double check if the University & Resources are in _Alphabetical Order_ as well
 3. Submit Pull Request
