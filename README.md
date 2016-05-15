@@ -58,5 +58,4 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
 ... and more, if you have any other resources, head over to [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
 
 
-
-> Welcome to contribute the amazing University CS Resources!
+> You are welcomed to contribute to the amazing list of University CS Resources!
