@@ -8,7 +8,7 @@
 
 > _Example_: 
  + University
-	- [Resources]+(link) // omit the space to post and replace "Resources" & "link"
+	- [Resources]+(link) // omit the '+' to post and replace "Resources" & "link"
 	- [Resources] (link) // this should be the result
 	- [Resources] (link) // this should be the result
 
