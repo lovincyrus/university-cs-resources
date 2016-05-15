@@ -40,9 +40,11 @@ These are the pre-fixed Resources you may use for University's Resources:
 + Cornell University
 
 + Harvard University
+        - [Cs50: Introduction to Computer Science](https://cs50.harvard.edu/)
 
 + MIT
 	- [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+	- [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 
 
