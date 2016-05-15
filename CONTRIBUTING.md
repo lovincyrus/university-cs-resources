@@ -8,9 +8,9 @@
 
 > _Example_: 
  + University
-	- [Resources]+(link) // omit the '+' to post and replace "Resources" & "link"
-	- [Resources] (link) // this should be the result
-	- [Resources] (link) // this should be the result
+	- [Resources_1]+(link) // omit the '+' to post and replace "Resources" & "link"
+	- [Resources_2] (link) // this should be the result
+	- [Resources_3] (link) // this should be the result
 
 ---
 ##### YES - University is on the curated list:
