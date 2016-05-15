@@ -1,15 +1,35 @@
 # University CS Resources
 
-This repository aims to collect all university cs resources available for everybody.
 
-
+## Introduction
+---
+This repository aims to collect all ___University CS Resources___ available online for everyone to use.
 
 If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
 
 ## Table of Content
 ---
-1. [University](#university) 
-2. [Resources](#resources)
+1. [Resources](#resources)
+2. [University](#university)
+
+## Resources
+---
+These are the pre-fixed Resources you may use for University's Resources:
+
++ Algorithms and data structures
++ Artificial Intelligence
++ Bots
++ Cryptography
++ Dataset Collection
++ Data Science
++ Deep Learning
++ Machine Learning
++ Security
++ Speech and Natural Language Processing
++ Web Dev
+
+... and more, if you have any other resources, head over to [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
+
 
 ## University
 ---
@@ -41,21 +61,4 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
 + University of Waterloo
 
 
-## Resources
----
-+ Algorithms and data structures
-+ Artificial Intelligence
-+ Bots
-+ Cryptography
-+ Dataset Collection
-+ Data Science
-+ Deep Learning
-+ Machine Learning
-+ Security
-+ Speech and Natural Language Processing
-+ Web Dev
-
-... and more, if you have any other resources, head over to [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
-
-
-> You are welcomed to contribute to the amazing list of University CS Resources!
+> You are welcomed to contribute to the amazing list of University CS Resources! --  [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
