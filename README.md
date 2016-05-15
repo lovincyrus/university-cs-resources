@@ -42,30 +42,30 @@ These are the pre-fixed Resources you may use for University's Resources:
 + Harvard University
 	- [CS50 Harvard: Introduction to Computer Science](https://cs50.harvard.edu/)
 
-+ MIT
++ Massachusetts Institute of Technology (MIT)
 	- [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 	- [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
-
-
-+ San Jose State University
++ San Jose State University (SJSU)
 
 + Stanford University
 	- [Crowd Course MOOCs](http://crowdcourse.stanford.edu/courses.html)
 	- [Dataset Collection](https://snap.stanford.edu/data/)
 
-+ UC Berkeley
++ University of California, Berkeley (Cal)
 
-+ UC Irvine
++ University of California, Irvine
 	- [Dataset Collection](https://archive.ics.uci.edu/ml/)
 
-+ UC Los Angeles
++ University of California, Los Angeles
 	- [Dataset Collection](http://www.stat.ucla.edu/projects/datasets/)
 
-+ University of Illinois, Urbana–Champaign
++ University of Illinois, Urbana–Champaign (UIUC)
 
 + University of North Carolina at Chapel Hill
-	- [all resources for public course listings](http://cs.unc.edu/academics/home-page-links/)
+	- [All resources for public course listings](http://cs.unc.edu/academics/home-page-links/)
+
++ University of Pennsylvania (U Penn)
 
 + University of Waterloo
 
