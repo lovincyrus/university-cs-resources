@@ -68,5 +68,3 @@ These are the pre-fixed Resources you may use for University's Resources:
 
 
 > You are welcomed to contribute to the amazing list of University CS Resources! --  [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
-
-### -- ___Contribute, do not fork it___
