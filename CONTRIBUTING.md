@@ -1,6 +1,6 @@
 # CONTRIBUTE
 
-#### Get Started:
+### Get Started:
 + Go to [README.md](https://github.com/lovincyrus/university-cs-resources/blob/master/README.md)
 + Check if University is on the list, [YES](#yes) or [NO](#no)
 + The University and Resources have to be added in _Alphabetical Order_
