@@ -42,6 +42,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 + Harvard University
 
 + MIT
+        -[Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 + San Jose State University
 
