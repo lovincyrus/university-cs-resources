@@ -63,7 +63,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 + University of Illinois, Urbana–Champaign (UIUC)
 
 + University of Michigan, Ann Arbor (UMich)
-+ 	- [Linux/UNIX command line reference sheet](https://c4cs.github.io/reference)
+ 	- [Linux/UNIX command line reference sheet](https://c4cs.github.io/reference)
 
 + University of North Carolina at Chapel Hill
 	- [All resources for public course listings](http://cs.unc.edu/academics/home-page-links/)
