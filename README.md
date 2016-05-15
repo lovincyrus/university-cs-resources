@@ -2,18 +2,18 @@
 
 
 ## Introduction
----
+
 This repository aims to collect all ___University CS Resources___ available online for everyone to use.
 
 If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
 
 ## Table of Content
----
+
 1. [Resources](#resources)
 2. [University](#university)
 
 ## Resources
----
+
 These are the pre-fixed Resources you may use for University's Resources:
 
 + Algorithms and data structures
@@ -32,7 +32,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 
 
 ## University
----
+
 + Caltech
 
 + Carnegie Mellon University
