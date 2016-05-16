@@ -51,8 +51,8 @@ These are the pre-fixed Resources you may use for University's Resources:
 + San Jose State University
 
 + Stanford University   
-        - [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 	- [Computer Science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
+	- [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 	- [Dataset Collection](https://snap.stanford.edu/data/)
 	- [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 	- [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
