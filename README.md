@@ -49,8 +49,12 @@ These are the pre-fixed Resources you may use for University's Resources:
 + San Jose State University (SJSU)
 
 + Stanford University
+	- [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 	- [Crowd Course MOOCs](http://crowdcourse.stanford.edu/courses.html)
+	- [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 	- [Dataset Collection](https://snap.stanford.edu/data/)
+	- [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+	- [Principles of Computing](https://lagunita.stanford.edu/courses/OLI/PrinciplesOfComputing/Open/about)
 
 + University of California, Berkeley (Cal)
 
