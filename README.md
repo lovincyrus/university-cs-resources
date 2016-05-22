@@ -35,7 +35,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 
 + Caltech
 
-+ Carnegie Mellon University
++ Carnegie Mellon University (CMU)
 
 + Cornell University
 
@@ -63,10 +63,10 @@ These are the pre-fixed Resources you may use for University's Resources:
 
 + University of California, Berkeley (Cal)
 
-+ University of California, Irvine
++ University of California, Irvine (UCI)
 	- [Dataset Collection](https://archive.ics.uci.edu/ml/)
 
-+ University of California, Los Angeles
++ University of California, Los Angeles (UCLA)
 	- [Dataset Collection](http://www.stat.ucla.edu/projects/datasets/)
 
 + University of Illinois, Urbana–Champaign (UIUC)
