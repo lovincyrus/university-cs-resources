@@ -34,8 +34,28 @@ These are the pre-fixed Resources you may use for University's Resources:
 ## University
 
 + Caltech
+	- [Caltech-UCSD Birds-200-2011](http://vision.caltech.edu/visipedia/CUB-200-2011.html)
+	- [Caltech Pedestrian Database](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
+	- [Caltech 101 - Pictures of objects belonging to 101 categories.](http://www.vision.caltech.edu/Image_Datasets/Caltech101/Caltech101.html)
+	- [Caltech-256 - Pictures of objects belonging to 256 categories.](http://www.vision.caltech.edu/Image_Datasets/Caltech256/)
+	- [Home Objects dataset](http://www.vision.caltech.edu/pmoreels/Datasets/Home_Objects_06/)
+	- [Giuseppe Toys dataset](http://www.vision.caltech.edu/pmoreels/Datasets/Giuseppe_Toys_03/)
+	- [Caltech 10, 000 Web Faces](http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/)
+	- [3D Objects on Turntable](http://www.vision.caltech.edu/pmoreels/Datasets/TurntableObjects/index.html)
+	- [Cars 2001 (Rear) - 526 images of Cars from the rear](http://www.vision.caltech.edu/Image_Datasets/cars_brad/cars_brad.tar)
+	- [Cars 1999 (Rear 2) - 126 images of Cars from the rear](http://www.vision.caltech.edu/Image_Datasets/cars_markus/cars_markus.tar)
+	- [Motorcycles 2001 (Side) - 826 images of motorbikes from the side](http://www.vision.caltech.edu/Image_Datasets/motorbikes_side/motorbikes_side.tar)
+	- [Airplanes (Side) - 1074 images of airplanes from the side](http://www.vision.caltech.edu/Image_Datasets/airplanes_side/airplanes_side.tar)
+	- [Faces 1999 (Front) - 450 frontal face images of 27 or so unique people](http://www.vision.caltech.edu/Image_Datasets/faces/faces.tar)
+	- [Leaves 1999 - 186 images of 3 species of leaves against cluttered backgrounds](http://www.vision.caltech.edu/Image_Datasets/leaves/leaves.tar)
+	- [Background - 550 images of assorted scenes](http://www.vision.caltech.edu/Image_Datasets/background/background.tar)
+	- [Pasadena Buildings 2010 - 125 houses around Pasadena and the Caltech campus](http://vision.caltech.edu/image_datasets/pasadena-buildings.zip)
+	- [Pasadena Houses 2000 - 241 photographs of Pasadena houses](http://vision.caltech.edu/image_datasets/Pasadena-Houses-2000.tar)
+	- [Caltech and Pasadena Entrances 2000 - 167 photographs of Caltech and Pasadena doors and entrances](http://www.vision.caltech.edu/Image_Datasets/CIT-Pasadena-Entrances-2000.tar)
+	- [Caltech Lanes Dataset](http://www.vision.caltech.edu/malaa/datasets/caltech-lanes/)
 
 + Carnegie Mellon University (CMU)
+	- [Principles of Computing](http://oli.cmu.edu/courses/free-open/computing-course-details/)
 
 + Cornell University
 
