@@ -79,6 +79,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 	- [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 	- [Dataset Collection](https://snap.stanford.edu/data/)
 	- [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+	- [Machine Learning](https://www.coursera.org/learn/machine-learning)
 	- [Principles of Computing](https://lagunita.stanford.edu/courses/OLI/PrinciplesOfComputing/Open/about)
 
 + University of California, Berkeley (Cal)
