@@ -69,6 +69,10 @@ These are the pre-fixed Resources you may use for University's Resources:
 	- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8)
 	- [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
++ Princeton University
+	- [Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
+	- [Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
+
 + San Jose State University (SJSU)
 
 + Stanford University
