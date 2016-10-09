@@ -79,6 +79,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 	- [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
 	- [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2)
 	- [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+	- [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 	- [Crowd Course MOOCs](http://crowdcourse.stanford.edu/courses.html)
 	- [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 	- [Dataset Collection](https://snap.stanford.edu/data/)
