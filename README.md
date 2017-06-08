@@ -86,6 +86,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 	- [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 	- [Machine Learning](https://www.coursera.org/learn/machine-learning)
 	- [Principles of Computing](https://lagunita.stanford.edu/courses/OLI/PrinciplesOfComputing/Open/about)
+	- [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 
 + University of California, Berkeley (Cal)
 
