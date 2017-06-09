@@ -51,8 +51,8 @@ These are the pre-fixed Resources you may use for University's Resources:
 
 ***
 
-+ Caltech
-	- [Caltech-UCSD Birds-200-2011](http://vision.caltech.edu/visipedia/CUB-200-2011.html)
++ #### Caltech
+ 	- [Caltech-UCSD Birds-200-2011](http://vision.caltech.edu/visipedia/CUB-200-2011.html)
 	- [Caltech Pedestrian Database](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
 	- [Caltech 101 - Pictures of objects belonging to 101 categories.](http://www.vision.caltech.edu/Image_Datasets/Caltech101/Caltech101.html)
 	- [Caltech-256 - Pictures of objects belonging to 256 categories.](http://www.vision.caltech.edu/Image_Datasets/Caltech256/)
@@ -72,28 +72,28 @@ These are the pre-fixed Resources you may use for University's Resources:
 	- [Caltech and Pasadena Entrances 2000 - 167 photographs of Caltech and Pasadena doors and entrances](http://www.vision.caltech.edu/Image_Datasets/CIT-Pasadena-Entrances-2000.tar)
 	- [Caltech Lanes Dataset](http://www.vision.caltech.edu/malaa/datasets/caltech-lanes/)
 
-+ Carnegie Mellon University (CMU)
++ #### Carnegie Mellon University (CMU)
 	- [Principles of Computing](http://oli.cmu.edu/courses/free-open/computing-course-details/)
 
-+ Cornell University
++ #### Cornell University
 
-+ Harvard University
++ #### Harvard University
 	- [CS50 Harvard: Introduction to Computer Science](https://cs50.harvard.edu/)
 
-+ Massachusetts Institute of Technology (MIT)
++ #### Massachusetts Institute of Technology (MIT)
 	- [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 	- [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
 	- [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 	- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8)
 	- [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
-+ Princeton University
++ #### Princeton University
 	- [Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 	- [Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 
-+ San Jose State University (SJSU)
++ #### San Jose State University (SJSU)
 
-+ Stanford University
++ #### Stanford University
 	- [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
 	- [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2)
 	- [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
@@ -106,25 +106,25 @@ These are the pre-fixed Resources you may use for University's Resources:
 	- [Principles of Computing](https://lagunita.stanford.edu/courses/OLI/PrinciplesOfComputing/Open/about)
 	- [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 
-+ University of California, Berkeley (Cal)
++ #### University of California, Berkeley (Cal)
 
-+ University of California, Irvine (UCI)
++ #### University of California, Irvine (UCI)
 	- [Dataset Collection](https://archive.ics.uci.edu/ml/)
 
-+ University of California, Los Angeles (UCLA)
++ #### University of California, Los Angeles (UCLA)
 	- [Dataset Collection](http://www.stat.ucla.edu/projects/datasets/)
 
-+ University of Illinois, Urbana–Champaign (UIUC)
++ #### University of Illinois, Urbana–Champaign (UIUC)
 
-+ University of Michigan, Ann Arbor (UMich)
++ #### University of Michigan, Ann Arbor (UMich)
  	- [Linux/UNIX command line reference sheet](https://c4cs.github.io/reference)
 
-+ University of North Carolina at Chapel Hill
++ #### University of North Carolina at Chapel Hill
 	- [All resources for public course listings](http://cs.unc.edu/academics/home-page-links/)
 
-+ University of Pennsylvania (U Penn)
++ #### University of Pennsylvania (U Penn)
 
-+ University of Waterloo
++ #### University of Waterloo
 
 
 > You are welcomed to contribute to the amazing list of University CS Resources! — [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
