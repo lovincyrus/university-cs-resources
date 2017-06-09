@@ -32,6 +32,24 @@ These are the pre-fixed Resources you may use for University's Resources:
 
 
 ## University
++ Caltech
++ CMU
++ Cornell
++ Harvard
++ MIT
++ Princeton
++ SJSU
++ Stanford
++ UCB
++ UCI
++ UCLA
++ UIUC
++ UMich
++ University of North Carolina at Chapel Hill
++ U Penn
++ University of Waterloo
+
+
 
 + Caltech
 	- [Caltech-UCSD Birds-200-2011](http://vision.caltech.edu/visipedia/CUB-200-2011.html)
@@ -109,4 +127,4 @@ These are the pre-fixed Resources you may use for University's Resources:
 + University of Waterloo
 
 
-> You are welcomed to contribute to the amazing list of University CS Resources! --  [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
+> You are welcomed to contribute to the amazing list of University CS Resources! — [Contributing Guidelines](https://github.com/lovincyrus/university-cs-resources/blob/master/CONTRIBUTING.md)
