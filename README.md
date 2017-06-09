@@ -32,24 +32,24 @@ These are the pre-fixed Resources you may use for University's Resources:
 
 
 ## University
-+ Caltech
-+ CMU
-+ Cornell
-+ Harvard
-+ MIT
-+ Princeton
-+ SJSU
-+ Stanford
-+ UCB
-+ UCI
-+ UCLA
-+ UIUC
-+ UMich
-+ University of North Carolina at Chapel Hill
-+ U Penn
-+ University of Waterloo
++ [Caltech](#caltech)
++ [CMU](#cmu)
++ [Cornell](#cornell)
++ [Harvard](#harvard)
++ [MIT](#mit)
++ [Princeton](#princeton)
++ [SJSU](#sjsu)
++ [Stanford](#stanford)
++ [UCB](#cal)
++ [UCI](#uci)
++ [UCLA](#ucla)
++ [UIUC](#uiuc)
++ [UMich](#umich)
++ [University of North Carolina at Chapel Hill](#chapel)
++ [U Penn](#penn)
++ [University of Waterloo](#waterloo)
 
-
+***
 
 + Caltech
 	- [Caltech-UCSD Birds-200-2011](http://vision.caltech.edu/visipedia/CUB-200-2011.html)
