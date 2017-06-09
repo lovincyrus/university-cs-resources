@@ -33,20 +33,20 @@ These are the pre-fixed Resources you may use for University's Resources:
 
 ## University
 + [Caltech](#caltech)
-+ [CMU](#carnegie-mellon-university-(cmu))
++ [CMU](#carnegie-mellon-university)
 + [Cornell](#cornell-university)
 + [Harvard](#harvard-university)
-+ [MIT](#massachusetts-institute-of-technology-(mit))
++ [MIT](#massachusetts-institute-of-technology)
 + [Princeton](#princeton-university)
-+ [SJSU](#san-jose-state-university-(sjsu))
++ [SJSU](#san-jose-state-university)
 + [Stanford](#stanford-university)
-+ [UCB](#university-of-california-berkeley-(cal))
-+ [UCI](#university-of-california-irvine-(uci))
-+ [UCLA](#university-of-california-los-angeles-(ucla))
-+ [UIUC](#university-of-illinois-urbana–champaign-(uiuc))
-+ [UMich](#university-of-michigan-ann-arbor-(umich))
++ [UCB](#university-of-california-berkeley)
++ [UCI](#university-of-california-irvine)
++ [UCLA](#university-of-california-los-angeles)
++ [UIUC](#university-of-illinois-urbana–champaign)
++ [UMich](#university-of-michigan-ann-arbor)
 + [University of North Carolina at Chapel Hill](#university-of-north-carolina-at-chapel-hill)
-+ [U Penn](#university-of-pennsylvania-(u-penn))
++ [U Penn](#university-of-pennsylvania)
 + [University of Waterloo](#university-of-waterloo)
 
 ***
@@ -72,7 +72,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 	- [Caltech and Pasadena Entrances 2000 - 167 photographs of Caltech and Pasadena doors and entrances](http://www.vision.caltech.edu/Image_Datasets/CIT-Pasadena-Entrances-2000.tar)
 	- [Caltech Lanes Dataset](http://www.vision.caltech.edu/malaa/datasets/caltech-lanes/)
 
-+ #### Carnegie Mellon University (CMU)
++ #### Carnegie Mellon University
 	- [Principles of Computing](http://oli.cmu.edu/courses/free-open/computing-course-details/)
 
 + #### Cornell University
@@ -80,7 +80,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 + #### Harvard University
 	- [CS50 Harvard: Introduction to Computer Science](https://cs50.harvard.edu/)
 
-+ #### Massachusetts Institute of Technology (MIT)
++ #### Massachusetts Institute of Technology
 	- [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 	- [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
 	- [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
@@ -91,7 +91,7 @@ These are the pre-fixed Resources you may use for University's Resources:
 	- [Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 	- [Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 
-+ #### San Jose State University (SJSU)
++ #### San Jose State University
 
 + #### Stanford University
 	- [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
@@ -106,23 +106,23 @@ These are the pre-fixed Resources you may use for University's Resources:
 	- [Principles of Computing](https://lagunita.stanford.edu/courses/OLI/PrinciplesOfComputing/Open/about)
 	- [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 
-+ #### University of California, Berkeley (Cal)
++ #### University of California, Berkeley
 
-+ #### University of California, Irvine (UCI)
++ #### University of California, Irvine
 	- [Dataset Collection](https://archive.ics.uci.edu/ml/)
 
-+ #### University of California, Los Angeles (UCLA)
++ #### University of California, Los Angeles
 	- [Dataset Collection](http://www.stat.ucla.edu/projects/datasets/)
 
-+ #### University of Illinois, Urbana–Champaign (UIUC)
++ #### University of Illinois, Urbana–Champaign
 
-+ #### University of Michigan, Ann Arbor (UMich)
++ #### University of Michigan, Ann Arbor
  	- [Linux/UNIX command line reference sheet](https://c4cs.github.io/reference)
 
 + #### University of North Carolina at Chapel Hill
 	- [All resources for public course listings](http://cs.unc.edu/academics/home-page-links/)
 
-+ #### University of Pennsylvania (U Penn)
++ #### University of Pennsylvania
 
 + #### University of Waterloo
 
